@@ -10,10 +10,10 @@ function App() {
   return (
     <>
       <Navbar />
-      <Home />
+      {/*<Home /> */}
       {/* <Register_Page /> */}
       {/* <Login_Page /> */}
-      {/* <Cart /> */}
+      <Cart />
       <Footer />
     </>
     
